@@ -1,0 +1,105 @@
+<title>Benjamin Victoria - Academic Information</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 20px;
+		}
+		header {
+			background-color: #f0f0f0;
+			padding: 10px;
+			text-align: center;
+		}
+		main {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			padding: 20px;
+		}
+		section {
+			background-color: #fff;
+			padding: 20px;
+			margin-bottom: 20px;
+			box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+		}
+		h2 {
+			margin-top: 0;
+		}
+		ul {
+			list-style: none;
+			padding: 0;
+			margin: 0;
+		}
+		li {
+			margin-bottom: 10px;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>Benjamin Victoria</h1>
+		<p>Academic Information</p>
+	</header>
+	<main>
+		<section id="about">
+			<h2>About Me</h2>
+			<p>My name is Benjamin Bukola Victoria, and i am a second-year undergraduate student at Harvarde College of Science, Business, and Management Studies.</p>
+			<p>I am enrolled in the School of Science and Engineering where i am pursuing a major in Computer Science within the Department of Computer Science.</p>
+		</section>
+		<section id="academic-info">
+			<h2>Academic Information</h2>
+			<ul>
+				<li>Degree: Bachelor of Science in Computer Science</li> 
+				<li>Matric No: 032310108</li>
+				<li>University Name: Harvarde College of Science, Business, and Management Studies</li>
+				<li>Major: Computer Science</li>
+				<li>Department: Computer Science</li>
+				<li>School: Science and Engineering</li>
+				<li>GPA: 3.8</li>
+				<li>Student Status: Full-time undergraduate student </li>
+				<li>Relevant Coursework: Programming Fundamentals, Data Structure and Algorithms, Computer Systems and Architecture, Computer Networks, Web developments, Software Engineering.  </li>
+			</ul>
+		</section>
+		<section id="research-interests">
+			<h2>Research Interests</h2>
+			<p> Exploring innovative web technologies and techniques to create efficient, user friendly , and visually appealing web applications</p>
+			<p> Exploring techniques for creating adaptable, mobile freindly interfaces that ensure optimal user experiences across various devices</p>
+		    <p> Identifying server side programming languages like Ruby or Python to create robust and scalable web applications</p>
+		    <p> Exploring the features and benefits of PWAs, including offline support, push notifications, and home screen installations</p>
+		</section>
+		<section id="publications">
+			<h2>Publications</h2>
+			<ul>
+				<li>Personal Projects</li>
+	            <li>Blog post or articles</li>
+				<li>Academic Assignments</li>
+				<li>Presentations</li>
+				<li>Research papers</li>
+				<li>Programming projects</li>    	
+			</ul>
+		</section>
+		<section id="presentations">
+			<h2>Presentations</h2>
+			<ul>
+				<li>Conference Presentations</li>
+				<li>Research Seminars</li>
+				<li>Workshop presentations</li>
+				<li>Competition Presentations</li>
+				<li>Class Presentations</li>
+			</ul>
+		</section>
+		<section id="awards">
+			<h2>Awards</h2>
+			<ul>
+				<li>None</li>
+			</ul>
+		</section>
+		<section id="contact">
+			<h2>Contact</h2>
+			<p>Email Address:victoriabenjamin08@gmail.com</p>
+			<p>Phone Number:+2348089446832</p>
+		</section>
+	</main>
+</body>
+</html>
